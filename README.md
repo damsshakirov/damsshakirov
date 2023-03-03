@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDkwM2Q5NmMwM2Y4NGMwMjAyOGY2NTQ0NTYxMzc5ZTY2M2ZhODJhNSZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="latop" width="200" height="200" frameBorder="0">
+
 ## Hi there 👋 I am Damir
 
 I am analyst with 8+ years’ experience (last 4 years in data analysis) and finance background in large production and audit companies. Result-focused proactive person with skills/competencies in:
